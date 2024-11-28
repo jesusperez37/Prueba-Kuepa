@@ -42,7 +42,7 @@ Copiar código
 yarn build
 
 ## Imagen ajustada
-<img src="https://github.com/user-attachments/assets/7a6b5d77-107a-4e5b-b495-b987fda01aae" width="300" />
+<img src="https://github.com/user-attachments/assets/7a6b5d77-107a-4e5b-b495-b987fda01aae" width="700" />
 
 ![Screenshot_1](https://github.com/user-attachments/assets/7a6b5d77-107a-4e5b-b495-b987fda01aae)
 
