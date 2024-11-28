@@ -17,30 +17,6 @@ Este proyecto es una aplicación web que utiliza **Vue.js** para el frontend, **
 
 ---
 
-## Frontend
-
-### Configuración del proyecto
-Primero, navega a la carpeta del frontend:
-
-
-cd frontend
-Instalación de dependencias
-bash
-Copiar código
-yarn install
-Modo de desarrollo
-Para iniciar el servidor de desarrollo con recarga en caliente:
-
-bash
-Copiar código
-yarn serve
-Construcción para producción
-Para compilar y minificar el proyecto para un entorno de producción:
-
-bash
-Copiar código
-yarn build
-
 ## Login
 <img src="https://github.com/user-attachments/assets/7a6b5d77-107a-4e5b-b495-b987fda01aae" width="700" />
 
