@@ -22,7 +22,7 @@ Este proyecto es una aplicación web que utiliza **Vue.js** para el frontend, **
 ### Configuración del proyecto
 Primero, navega a la carpeta del frontend:
 
-```bash
+
 cd frontend
 Instalación de dependencias
 bash
